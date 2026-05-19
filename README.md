@@ -13,8 +13,7 @@ O foco foi aprender a configurar SSH, MFA e trabalhar com repositórios remotos.
 - Geração de chave SSH Ed25519
 - Configuração do remote via SSH
 - Ativação do MFA na conta
-        -  FALTA FAZER -
-- Adição da Deploy Key do professor 
+- Adição da Deploy Key do professor -  FALTA FAZER -
 
 ## Comandos 
 
